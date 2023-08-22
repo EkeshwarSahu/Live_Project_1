@@ -14,7 +14,7 @@ Welcome to the presentation for my project that explores the exciting world of C
 
 ### Presentation File
 
-You can access the full PowerPoint presentation (https://github.com/EkeshwarSahu/Live_Project_1/blob/main/Proejct%20Report%20Presentation.pptx).
+You can access the full PowerPoint presentation (https://github.com/EkeshwarSahu/Live_Project_1/blob/main/Project%20Report%20Presentation.pptx)
 
 Feel free to reach out if you have any questions or feedback!
 
