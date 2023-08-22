@@ -7,6 +7,9 @@
  __Objective:__
 The objective of this exercise is to build a machine model, using historical banking data that will help the bank employees to determine appropriate candidature for the loan approval. 
 
+### Project link:
+You can access the full project:(https://github.com/EkeshwarSahu/Live_Project_1/blob/main/LP1_Consumer_Creditworthiness_Analysis.ipynb)
+
 
 ### Project Presentation:
 
